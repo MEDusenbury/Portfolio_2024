@@ -1,4 +1,4 @@
-This portfolio contains files of multiple types with varying significance that showcase my skills with, primarily but not limited to, EXCEL/GOOGLE SHEETS, SQL, R, AND PYTHON.  
+This portfolio contains files of multiple types with varying significance that showcase my skills with, primarily but not limited to, EXCEL/GOOGLE SHEETS, SQL, R, TABLEAU, AND PYTHON.  
 
 The files are organized into the following types:
 
